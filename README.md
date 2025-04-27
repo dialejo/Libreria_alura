@@ -92,6 +92,8 @@ Asocia libros con su **disponibilidad actual**.
 - Modelado entidad-relación (ER).
 - Definición de entidades, atributos y relaciones.
 - Reglas de negocio clave reflejadas en las relaciones.
+- Modelo logico
+- Modelo Fisico
 
 ❌ Este proyecto **no incluye**:
 
