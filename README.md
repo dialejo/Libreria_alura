@@ -14,6 +14,16 @@ Permitir el almacenamiento y consulta eficiente de:
 
 ---
 
+## 🧱 Modelos Incluidos:
+
+Este proyecto incluye los tres niveles de modelado de base de datos:
+	•	Modelo Relacional (Entidad-Relación): Representación gráfica con entidades, atributos y relaciones.
+	•	Modelo Lógico: Tablas normalizadas, tipos de datos y claves primarias/foráneas.
+	•	Modelo Físico: Scripts SQL para la creación de tablas y restricciones en un sistema gestor de bases de datos.
+
+⸻
+
+
 ## 🧑‍💼 Entidad: Cliente
 
 El cliente puede ser una:
